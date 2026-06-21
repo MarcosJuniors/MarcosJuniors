@@ -4,7 +4,7 @@
 
 Sou apaixonado por tecnologia e inovação, sempre buscando aplicar soluções criativas para otimizar processos e gerar impacto positivo. Tenho interesse em desenvolvimento de software, integração de sistemas e projetos que envolvam automação inteligente.  
 
-Atualmente, estou aprofundando meus conhecimentos em linguagens de programação e frameworks modernos, com foco em construir aplicações escaláveis e eficientes.  
+Atualmente, estou aprofundando meus conhecimentos em linguagens de programação, cloud computing e ferramentas de automação, com foco em construir aplicações escaláveis e eficientes.  
 
 💡 **Objetivo:** Contribuir em projetos desafiadores que envolvam desenvolvimento de software, IA e automação, trazendo soluções que agreguem valor ao negócio e impulsionem a transformação digital.  
 
@@ -16,6 +16,14 @@ Atualmente, estou aprofundando meus conhecimentos em linguagens de programação
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Marcos-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Marcos-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Marcos-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Marcos-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Marcos-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Marcos-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Marcos-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+  <img align="center" alt="Marcos-Zabbix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zabbix/zabbix-original.svg">
 </div>
   
 ##
