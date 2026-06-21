@@ -1,5 +1,5 @@
 ## 👋 Oi, eu sou o Marcos Junior  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas e BCMT Análise de Dados UFRJ 
 🤖 Entusiasta de Inteligência Artificial e Automação  
 
 Sou apaixonado por tecnologia e inovação, sempre buscando aplicar soluções criativas para otimizar processos e gerar impacto positivo. Tenho interesse em desenvolvimento de software, integração de sistemas e projetos que envolvam automação inteligente.  
